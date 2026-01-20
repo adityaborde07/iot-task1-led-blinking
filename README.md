@@ -1,6 +1,9 @@
 # iot-task1-led-blinking
+
 Intern Name: Aditya Borde
+
 Domain: Embedded Systems / IoT
+
 Project Description:
 This project demonstrates a basic LED blinking system using Arduino UNO.
 The LED is turned ON and OFF at a fixed time interval using digital output control.
